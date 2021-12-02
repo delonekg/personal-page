@@ -40,6 +40,7 @@ hr {
 
 a {
   color: #11999E;
+  font-family: PT Sans, sans-serif
 }
 
 .top-container {
@@ -130,10 +131,13 @@ a {
 }
 
 .copyright {
-  margin: 50px auto 50px auto;
   position: absolute;
-  bottom: 0;
-  right: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  left: 0;
+  right: 0;
+  text-align: center;
   color: #EAF6F6;
 }
 
@@ -147,6 +151,8 @@ a {
 .icon-attr {
   position: absolute;
   bottom: 0;
+  left: 10px;
+  font-family: PT Sans, sans-serif;
 }
 
 .JUST-THIS-ONE {
